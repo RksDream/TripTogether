@@ -1,0 +1,25 @@
+{
+  "name": "triptogether",
+  "version": "1.0.0",
+  "description": "TripTogether project by Rahul",
+  "scripts": {
+    "test": "test",
+    "start": "parcel index.html"
+  },
+  "keywords": [
+    "tripTogether",
+    "tt",
+    "Project"
+  ],
+  "author": "Rahul Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@react-google-maps/api": "^2.20.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
